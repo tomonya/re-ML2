@@ -16,8 +16,8 @@ const translationMap = {
 const entry = {
     name: 'ML2Scratch',
     extensionId: 'ml2scratch',
-    extensionURL: 'https://champierre.github.io/ml2scratch/ml2scratch.mjs',
-    collaborator: 'champierre',
+    extensionURL: 'https://tomonya.github.io/re-ML2/ml2scratch.mjs',
+    collaborator: 'tomonya',
     iconURL: ml2scratchIconURL,
     insetIconURL: ml2scratchInsetIconURL,
     description: (
@@ -31,7 +31,7 @@ const entry = {
     disabled: false,
     bluetoothRequired: false,
     internetConnectionRequired: true,
-    helpLink: 'https://github.com/champierre/ml2scratch/',
+    helpLink: 'https://github.com/tomonya/re-ML2/',
     translationMap: translationMap
 };
 
